@@ -1,6 +1,8 @@
 ---
-title: Welcome to Quartz
+title: Welcome to CS1 Notes
 ---
 
-This is a blank Quartz installation.
+### This is CS1 Notes.
+
+
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
